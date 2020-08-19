@@ -1,0 +1,3 @@
+web-config-profile-env = prod
+demo.enName = demo
+demo.chName =  样例
